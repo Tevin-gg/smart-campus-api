@@ -3,7 +3,6 @@
 Module: 5COSC022W — Client Server Architectures  
 Student Name: Tevin Bandara  
 Student ID: 20231725 
-GitHub Repository: https://github.com/tevinbandara/smart-campus-api  
 Video Demonstration Link: [ADD YOUR VIDEO LINK]
 
 ## Overview
