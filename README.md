@@ -3,7 +3,7 @@
 Module: 5COSC022W — Client Server Architectures  
 Student Name: Tevin Bandara  
 Student ID: 20231725 
-Video Demonstration Link: [ADD YOUR VIDEO LINK]
+Video Demonstration Link: https://drive.google.com/file/d/1SbrUS4ZJbuxqg5fMrJuhyF1AaRXTWEiY/view?usp=drive_link
 
 ## Overview
 
@@ -485,7 +485,7 @@ This keeps the resource classes focused on API logic while the filter handles lo
 Video demonstration link - 
 
 ```text
-[ADD YOUR VIDEO LINK HERE]
+https://drive.google.com/file/d/1SbrUS4ZJbuxqg5fMrJuhyF1AaRXTWEiY/view?usp=drive_link
 ```
 
 The video demonstrates - 
